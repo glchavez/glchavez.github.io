@@ -1,0 +1,31 @@
+/*Design aspects for title of web page*/
+header {
+    background-color: rgba(114, 116, 116, 0.938);
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+/*Design aspects for photo of Giovany*/
+#self-photo {
+    float: left;
+    margin-right:10px;
+    border: 2px solid black;
+}
+
+/*Design aspects for the section titles*/
+h2 {
+    background-color: black;
+    color: white;
+    overflow: auto;
+}
+
+/*Design aspects for the paragraph text left of photo of Giovany*/
+.self-photo-overflow {
+    overflow: auto;
+}
+
+/*Design aspects for the dotted list left of photo of Giovany*/
+.bio-list {
+    overflow: auto;
+    margin-left: 5px;
+}
